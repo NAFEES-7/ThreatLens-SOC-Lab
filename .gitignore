@@ -1,0 +1,20 @@
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local editor files
+.vscode/
+.DS_Store
+Thumbs.db
